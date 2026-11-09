@@ -1,0 +1,6 @@
+interface:
+  display_name: "Triar skill externa"
+  short_description: "Avalia origem, licença e riscos de skills externas"
+  default_prompt: "Use $triar-skill-externa para avaliar esta skill e indicar se está pronta para uma avaliação isolada."
+policy:
+  allow_implicit_invocation: false

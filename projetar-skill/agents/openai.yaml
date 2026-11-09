@@ -1,0 +1,6 @@
+interface:
+  display_name: "Projetar skill"
+  short_description: "Projeta e avalia procedimentos para agentes"
+  default_prompt: "Use $projetar-skill para criar uma skill a partir deste procedimento e definir como verificar o resultado."
+policy:
+  allow_implicit_invocation: false

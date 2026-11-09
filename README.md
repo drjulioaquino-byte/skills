@@ -4,6 +4,12 @@ Skills que uso nos agentes (Cursor / Claude / Codex). Cada pasta tem um `SKILL.m
 
 ---
 
+## Biblioteca de skills
+
+- [`projetar-skill`](./projetar-skill): cria ou revisa skills com critérios de conclusão, casos de avaliação e um processo para incorporar feedback.
+- [`triar-skill-externa`](./triar-skill-externa): examina uma skill de outro repositório por revisão estática e entrega uma decisão com origem, licença, riscos e evidências.
+- [Guia da biblioteca](./docs/biblioteca-de-skills.md): oito camadas, instruções para testar o kit e curadoria de possíveis upstreams.
+
 ## Telas
 
 Pra inventar e fechar a cara de um app antes de gerar mock.
