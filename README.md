@@ -8,7 +8,8 @@ Skills que uso nos agentes (Cursor / Claude / Codex). Cada pasta tem um `SKILL.m
 
 - [`projetar-skill`](./projetar-skill): cria ou revisa skills com critérios de conclusão, casos de avaliação e um processo para incorporar feedback.
 - [`triar-skill-externa`](./triar-skill-externa): examina uma skill de outro repositório por revisão estática e entrega uma decisão com origem, licença, riscos e evidências.
-- [Guia da biblioteca](./docs/biblioteca-de-skills.md): oito camadas, instruções para testar o kit e curadoria de possíveis upstreams.
+- [Guia da biblioteca](./docs/biblioteca-de-skills.md): instalação por projeto, aprendizado com feedback, oito camadas e curadoria de upstreams.
+- [Fork de Superpowers](./upstreams/superpowers): upstream de engenharia mantido em um submódulo com revisão fixa.
 
 ## Telas
 

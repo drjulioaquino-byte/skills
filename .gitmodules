@@ -1,0 +1,3 @@
+[submodule "upstreams/superpowers"]
+	path = upstreams/superpowers
+	url = https://github.com/drjulioaquino-byte/superpowers.git

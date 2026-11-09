@@ -17,6 +17,4 @@ Para cada caso, registre o pedido, as entradas, os efeitos permitidos e um crit�
 3. Compare sessões novas com as mesmas entradas e permissões. Use a versão anterior ou uma sessão sem a skill como controle. Em um cliente configurado para invocação explícita, teste o comportamento após a invocação e registre essa condição.
 4. Anote versão, cliente, modelo, resultado por caso e caminho das evidências. Um teste de formato ou de script não comprova a seleção nem a qualidade do comportamento. Se alguma etapa não puder ser executada, marque-a como pendente.
 
-## Ao receber uma correção
-
-Registre a falha observada e o resultado esperado. Reproduza em um caso mínimo e ajuste a descrição, o procedimento ou o script na camada responsável. Rode novamente o caso e os vizinhos que podem sofrer regressão. Submeta a mudança com a evidência pelo fluxo de revisão do repositório.
+Para transformar uma correção em um novo caso, siga [o roteiro de aprendizado](aprendizado.md).
